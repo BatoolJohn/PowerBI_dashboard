@@ -2,7 +2,7 @@
 A Comprehensive Analysis of CO2 Emissions, Forestation, and Population Trends in Least Developed and Developed Countries
 
 Welcome to the Environmental Sustainability & Population Dynamics dashboard! This project presents an in-depth analysis of CO2 emissions, forestation levels, and population dynamics across both least developed and developed countries.
-📊 Project Overview
+## 📊 Project Overview
 
 This dashboard offers a clear, data-driven view of the following:
 
